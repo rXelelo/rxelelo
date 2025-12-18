@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rain Xelelo!
 
-Welcome to my GitLab profile! I'm a developer passionate about creating and contributing to open-source projects.
+Welcome to my GitHub profile! I'm a developer passionate about creating and contributing to open-source projects.
 
 ## 🔧 Technologies & Tools
 
