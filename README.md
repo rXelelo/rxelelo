@@ -10,10 +10,9 @@ Welcome to my GitHub profile! I'm a developer passionate about creating and cont
 
 ## 🚀 Featured Projects
 
-### PrismLinux Fedora Edition
-A custom Linux distribution and ecosystem of tools:
+### Noctalia Void repository
+Provide noctalia-shell as pkg in VoidLinux
 
-https://prismlinux.org
 ## 🌐 Connect with Me
 
 - GitHub: [@rxelelo](https://github.com/rxelelo)
