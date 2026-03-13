@@ -17,7 +17,7 @@ Provide noctalia-shell as pkg in VoidLinux
 
 - GitHub: [@rxelelo](https://github.com/rxelelo)
 - 🦊 GitLab: [@rxelelo](https://gitlab.com/rxelelo)
-- 📧 Email: [your-email@example.com](mailto:rxelelo@outlook.com)
+- 📧 Email: [rxelelo@outlook.com](mailto:rxelelo@outlook.com)
 
 ## 💡 Current Focus
 
