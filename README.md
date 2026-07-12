@@ -21,7 +21,6 @@ Provide noctalia-shell as pkg in VoidLinux
 
 ## 💡 Current Focus
 
-- Building and maintaining PrismLinux distribution
 - Contributing to open-source projects
 - Improving Linux desktop experience
 
