@@ -10,9 +10,6 @@ Welcome to my GitHub profile! I'm a developer passionate about creating and cont
 
 ## 🚀 Featured Projects
 
-### Noctalia Void repository
-Provide noctalia-shell as pkg in VoidLinux
-
 ## 🌐 Connect with Me
 
 - GitHub: [@rxelelo](https://github.com/rxelelo)
